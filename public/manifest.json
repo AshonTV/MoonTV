@@ -1,7 +1,7 @@
 {
-  "name": "MoonTV",
-  "short_name": "MoonTV",
-  "description": "影视聚合",
+  "name": "七彩影视",
+  "short_name": "七彩影视",
+  "description": "影视聚合网站",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
